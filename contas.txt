@@ -1,0 +1,9 @@
+12345;felipe sodre;900.0
+564;ana paula oliveira;-20.0
+876;hamilto moraes;900.0
+976;fernanda pires;570.0
+936;gustavo souza;720.0
+854;silvia laila;-570.0
+5647;luis souza;0.0
+2467;marlon sodre;2310.0
+1554;ana paula moraes;-40.0
